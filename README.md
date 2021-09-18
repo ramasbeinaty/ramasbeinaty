@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to expand my knowledge in **back-end web-development** [Nest.js-ecommerce](https://github.com/ramasbeinaty/Nest.js-ecommerce)
 
-- 💬 Ask me about **Cypress, OOP, C++, C, Java, Python**
+- 💬 Ask me about - **Cypress, OOP, C++, C, Java, Python**
 
-- 📫 How to reach me **ramasbeinaty@gmail.com**
+- 📫 How to reach me - **ramasbeinaty@gmail.com**
 
-- ⚡ Fun fact **You'll find it difficult to receive my volleyball serves**
+- ⚡ Fun fact - **You'll find it difficult to receive my volleyball serves**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

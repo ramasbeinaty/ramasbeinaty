@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js and Computer Vision**
 
-- 👯 I’m looking to expand my knowledge in back-end web-development [Nest.js-ecommerce](https://github.com/ramasbeinaty/Nest.js-ecommerce)
+- 👯 I’m looking to expand my knowledge in **back-end web-development** [Nest.js-ecommerce](https://github.com/ramasbeinaty/Nest.js-ecommerce)
 
 - 💬 Ask me about **Cypress, OOP, C++, C, Java, Python**
 

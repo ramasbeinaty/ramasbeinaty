@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rama Sbeinaty</h1>
 <h3 align="center">A curious computer science student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramasbeinaty" alt="ramasbeinaty" /></a> </p>
-
 - 🔭 I’m currently working as a **Quality Assurance Engineer, automating tests using cypress.io**
 
 - 🌱 I’m currently learning **Nest.js and Computer Vision**
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramasbeinaty&show_icons=true&locale=en&layout=compact" alt="ramasbeinaty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramasbeinaty&show_icons=true&locale=en" alt="ramasbeinaty" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramasbeinaty&" alt="ramasbeinaty" /></p>

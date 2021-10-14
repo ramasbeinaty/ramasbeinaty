@@ -11,7 +11,7 @@
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 
-- ⚡ Fun fact - **You'll find it difficult to receive my volleyball serves**
+- ⚡ Fun fact - **Stay clear of my volleyball serves, you might get hurt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rama Sbeinaty</h1>
-<h3 align="center">A curious computer science recent graduate</h3>
+<h3 align="center">A curious computer science graduate</h3>
 
 - 🔭 I’m a **Flutter App and Full Stack Web Developer**
 

@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rama Sbeinaty</h1>
 <h3 align="center">A curious computer science student</h3>
 
-- 🔭 I’m currently working as a **Quality Assurance Engineer, automating tests using cypress.io**
+- 🔭 I’m a **Flutter App and Full Stack Web Developer**
 
-- 🌱 I’m currently learning **Nest.js and Computer Vision**
+- 🌱 I’m currently learning to implement **Computer Vision** into one of my flutter apps.
 
-- 👯 I’m looking to expand my knowledge in **back-end web-development** [Nest.js-ecommerce](https://github.com/ramasbeinaty/Nest.js-ecommerce)
-
-- 💬 Ask me about - **Cypress, OOP, C++, C, Java, Python**
+- 💬 Ask me about - **Flutter, Python, OOP, C++, C, Java, HTML, and CSS**
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 
-- ⚡ Fun fact - **Stay clear of my volleyball serves, you might get hurt**
+- ⚡ Fun fact - **I'm full of surprises**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

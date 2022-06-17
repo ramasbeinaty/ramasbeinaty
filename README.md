@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 
-- ⚡ Fun fact - **I'm full of surprises**
+- ⚡ Fun fact - **I'm full of surprises!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

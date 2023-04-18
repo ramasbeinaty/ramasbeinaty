@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rama Sbeinaty</h1>
 <h3 align="center">A curious computer science graduate</h3>
 
-- 🔭 I’m a **Backend Software Engineer**
+- 🔭 I’m a **Backend Software Engineer** and **MetaVero Founder** -- a Microsoft supported metaverse community in the Middle East.
 
 - 🌱 I’m currently developing microservices using **Golang**.
 
-- 💬 Ask me about - **Golang, Python, OOP, C++, C, and Java**
+- 💬 Ask me about - **Golang, Python, OOP, C++, C, Java, Virtual Reality, Augemneted Reality, and Mixed Reality**
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 

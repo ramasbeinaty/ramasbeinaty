@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rama Sbeinaty</h1>
 <h3 align="center">A curious computer science graduate</h3>
 
-- 🔭 I’m a **Flutter App and Full Stack Web Developer**
+- 🔭 I’m a **Backend Software Engineer**
 
-- 🌱 I’m currently learning to implement **Computer Vision** into one of my flutter apps.
+- 🌱 I’m currently developing microservices using **Golang**.
 
-- 💬 Ask me about - **Flutter, Python, OOP, C++, C, Java, HTML, and CSS**
+- 💬 Ask me about - **Golang, Python, OOP, C++, C, and Java**
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 

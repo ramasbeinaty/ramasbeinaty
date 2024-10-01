@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing microservices using **Golang**.
 
-- 💬 Ask me about - **Golang, Python, OOP, C++, C, Java, Virtual Reality, Augemneted Reality, and Mixed Reality**
+- 💬 Ask me about - **Golang, Python, OOP, C++, C, Java, Virtual Reality, Augmented Reality, and Mixed Reality**
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 

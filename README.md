@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rama Sbeinaty</h1>
-<h3 align="center">A curious computer science graduate</h3>
+<h3 align="center">Backend Software Engineer</h3>
 
-- 🔭 I’m a **Backend Software Engineer** and **MetaVero Founder** -- a Microsoft supported metaverse community in the Middle East.
+- 🔭 And **MetaVero Founder** -- a Microsoft supported metaverse community in the Middle East.
 
 - 🌱 I’m currently developing microservices using **Golang**.
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me - **ramasbeinaty@gmail.com**
 
-- ⚡ Fun fact - **I'm full of surprises!**
+- ⚡ Fun fact - **I'm learning French**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
